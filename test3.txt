@@ -6,3 +6,4 @@ adding new line
 3
 4
 5
+added from test3.txt branch
